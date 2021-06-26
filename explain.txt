@@ -1,0 +1,4 @@
+Typescript
+Express Server
+PostgreSQL
+Socket connection
